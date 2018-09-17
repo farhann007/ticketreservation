@@ -1,0 +1,226 @@
+
+.holder2{    
+    
+
+float: right;
+padding-right: 56%;
+
+margin-top: -15px;
+   
+}
+.holder4{float: right;
+padding-right: 56%;
+
+margin-top: 14px;
+
+}
+#holder3{    
+    
+
+float: right;
+padding-right: 56%;
+margin-top: -39px;
+margin-top: 11px;
+   
+}
+#holder{    
+    
+width:92%;
+float: right;
+padding-right: 94%;
+margin-top: -39px;
+   
+}
+#place1{
+position:relative;
+margin:7px;
+}
+#place1 a{
+font-size:0.6em;
+color:darkgray;
+
+}
+#place1 li
+{
+ list-style: none outside none;
+ position: absolute;  
+border:1px solid gray; 
+}  
+
+#place1  li:hover
+{
+background-color:green;      
+} 
+#place1 .seat{
+    border-radius: 19%;
+    background:white;
+/*height:33px;*/
+width:23px;
+display:block;   
+}
+#place1 .selectedSeat
+{ 
+background:gray;          
+}
+#place1 .selectingSeat
+{ 
+background:green;        
+}
+#place1 .row-3, #place1 .row-4{
+margin-top:10px;
+}
+#seatDescription li{
+vertical-align:middle;    
+list-style: none outside none;
+padding-left:35px;
+height:35px;
+float:left;
+}
+/* newhtml */
+
+.row{
+   
+  height: 248px;  
+}
+
+#place2 {
+position:relative;
+margin:33px;
+}
+#place2 a{
+font-size:0.6em;
+color:darkgray;
+
+}
+#place2 li
+{
+ list-style: none outside none;
+ position: absolute;  
+border:1px solid gray; 
+}  
+
+#place2 li:hover
+{
+background-color:green;      
+} 
+#place2 .seat{
+    border-radius: 19%;
+    background:white;
+
+width:23px;
+display:block;   
+}
+#place2 .selectedSeat
+{ 
+background:gray;          
+}
+#place2 .selectingSeat
+{ 
+background:green;        
+}
+#place2 .row-3, #place1 .row-4{
+margin-top:10px;
+}
+#seatDescription li{
+vertical-align:middle;    
+list-style: none outside none;
+padding-left:35px;
+height:35px;
+float:left;
+}
+
+#place3 {
+position:relative;
+margin:33px;
+}
+#place3 a{
+font-size:0.6em;
+color:darkgray;
+
+}
+#place3 li
+{
+ list-style: none outside none;
+ position: absolute;  
+border:1px solid gray; 
+}  
+
+#place3 li:hover
+{
+background-color:green;      
+} 
+#place3 .seat{
+    border-radius: 19%;
+    background:white;
+width:23px;
+display:block;   
+}
+#place3 .selectedSeat
+{ 
+background:gray;          
+}
+#place3 .selectingSeat
+{ 
+background:green;        
+}
+#place3 .row-3, #place1 .row-4{
+margin-top:10px; 
+}
+#seatDescription li{
+vertical-align:middle;    
+list-style: none outside none;
+padding-left:35px;
+height:35px;
+float:left;
+}
+#place4 {
+position:relative;
+margin:33px;
+}
+#place4 a{
+font-size:0.6em;
+color:darkgray;
+
+}
+#place4 li
+{
+ list-style: none outside none;
+ position: absolute;  
+border:1px solid gray; 
+}  
+
+#place4 li:hover
+{
+background-color:green;      
+} 
+#place4 .seat{
+    border-radius: 19%;
+    background:white;
+
+width:23px;
+display:block;   
+}
+#place4 .selectedSeat
+{ 
+background:gray;          
+}
+#place4 .selectingSeat
+{ 
+background:green;        
+}
+#place4 .row-3, #place1 .row-4{
+margin-top:10px;
+}
+.disabledSeat{
+    background:rgb(148, 146, 146);
+}
+.btn{
+    margin-left: 45%;
+    width: 180px;
+}
+body{
+    background: #E0EAFC;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
